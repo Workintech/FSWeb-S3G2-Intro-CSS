@@ -1,3 +1,145 @@
 html {
   font-size: 62.5%;
 }
+.container {
+  background-color: white;
+  width: 100%;
+}
+.header {
+  margin: 2% 0;
+}
+#nav1 {
+  text-align: center;
+  width: 100%;
+  height: 5%;
+}
+#a1 {
+  margin: 1rem 10% 1rem 5%;
+  width: auto;
+  flex-wrap: nowrap;
+  background-color: #ff764e;
+  padding: 1rem 3rem 1rem 3rem;
+  color: white;
+  border-radius: 1rem;
+  font-family: "Roboto Mono";
+}
+#a2 {
+  margin: 1rem 10% 1rem 10%;
+  width: auto;
+  background-color: #5ed3eb;
+  padding: 1rem 3rem 1rem 3rem;
+  color: white;
+  border-radius: 1rem;
+  font-family: "Roboto Mono";
+}
+#a3 {
+  margin: 1rem 5% 1rem 10%;
+  width: auto;
+  background-color: #ffcd69;
+  padding: 1rem 3rem 1rem 3rem;
+  color: white;
+  border-radius: 1rem;
+  font-family: "Roboto Mono";
+}
+footer {
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  height: 5rem;
+  background-color: #f9e7dc;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+#imgf1 {
+  width: 100%;
+  margin: 0rem;
+}
+#img {
+  height: 15rem;
+  width: 100%;
+  overflow: hidden;
+
+  background-color: #f9e7dc;
+}
+#a4 {
+  margin: 1rem 20% 1rem 5%;
+  width: 1rem;
+  background-color: #ff764e;
+  padding: 0.5rem 5rem 0.5rem 2rem;
+  color: white;
+  border-radius: 1rem;
+  display: inline-block;
+  vertical-align: middle;
+  font-family: "Roboto Mono";
+}
+#a5 {
+  margin: 1rem 5% 1rem 5%;
+  width: auto;
+  background-color: #5ed3eb;
+  padding: 1rem 3rem 1rem 3rem;
+  color: white;
+  border-radius: 1rem;
+  vertical-align: baseline;
+  font-family: "Roboto Mono";
+}
+#a6 {
+  margin: 1rem 5% 1rem 20%;
+  width: auto;
+  background-color: #ffcd69;
+  padding: 1rem 3rem 1rem 3rem;
+  color: white;
+  border-radius: 1rem;
+  vertical-align: baseline;
+  font-family: "Roboto Mono";
+}
+#imgh1 {
+  width: 25%;
+  height: 25½;
+  border-radius: 100%;
+  display: inline-block;
+  margin-right: 10rem;
+  text-align: left;
+}
+#sh {
+  display: inline-block;
+  font-family: "Chelsea Market";
+  text-align: center;
+  padding-top: 1rem;
+  vertical-align: top;
+}
+.sh1 {
+  font-size: 2rem;
+}
+.subHeader {
+  vertical-align: top;
+  text-align: left;
+  margin: 5rem;
+}
+.main {
+  background-color: #ddb9a3;
+  margin: 5rem;
+  text-align: center;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-family: "Roboto Mono";
+}
+.content1 {
+  font-family: "Roboto Mono";
+  text-align: center;
+  width: 25%;
+  height: 25%;
+  padding-left: 40%;
+}
+.content2 {
+  font-family: "Roboto Mono";
+  width: 25%;
+  height: 25%;
+  padding-left: 40%;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+object {
+  width: 50%;
+  height: 50%;
+}
