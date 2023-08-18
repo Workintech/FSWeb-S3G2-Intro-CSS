@@ -106,6 +106,7 @@ footer {
   text-align: center;
   padding-top: 1rem;
   vertical-align: top;
+  margin-left: 10%;
 }
 .sh1 {
   font-size: 2rem;
@@ -140,6 +141,6 @@ footer {
   padding-bottom: 3rem;
 }
 object {
-  width: 50%;
-  height: 50%;
+  width: 40%;
+  height: 40%;
 }
